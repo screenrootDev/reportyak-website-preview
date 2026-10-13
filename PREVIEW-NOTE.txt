@@ -1,0 +1,1 @@
+Read-only SSR capture from verified local WordPress. Run node tools/fallback-preview-server.cjs for a local visual review. Real editable WordPress is tools/Start-Preview.ps1; installable theme/plugin included. Forms never submit. Snapshot search and pagination are limited.
